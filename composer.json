@@ -1,12 +1,5 @@
 {
     "name": "myparkfolio/jars-slf4j",
     "description": "This will provide the libraries for slf4j.",
-    "type": "library",
-    
-    "repositories": [
-		{ "type": "composer", "url": "https://pkg-my.parkeon.com/satis" },
-		{ "type": "composer", "url": "https://pkg-my.parkeon.com/neuralys" },
-		{ "type": "composer", "url": "https://pkg-my.parkeon.com/packagist" },
-		{ "packagist": false }    
-    ]
+    "type": "library"
 }
